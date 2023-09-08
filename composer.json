@@ -1,5 +1,5 @@
 {
-    "name": "sicsdev/dingo-api-custom",
+    "name": "saritasa/dingo-api-custom",
     "type": "library",
     "description": "Saritasa customizations for Dingo/Api library",
     "keywords": ["laravel", "api", "dingo", "restful"],
